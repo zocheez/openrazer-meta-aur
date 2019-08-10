@@ -11,7 +11,7 @@ url="https://github.com/openrazer/openrazer"
 license=('GPL2')
 makedepends=('python-setuptools')
 source=("https://github.com/trialism/openrazer/archive/master.zip")
-sha256sums=('b90749ba251a752e2523ed6633b83aca682c41aeee997ce28c930486a22b35a4')
+sha256sums=('b2ed6555e9bf708e4d086c50ad3bb5b3cbffa05ca895b689c7a356936e12aade')
 
 package_python-openrazer() {
   pkgdesc="Python library for accessing the Razer daemon from Python."
